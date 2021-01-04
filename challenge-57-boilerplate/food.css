@@ -1,0 +1,112 @@
+* {
+    margin: 0px 4px;
+    padding: 0px;
+  }
+.header{
+    background-image: linear-gradient(to right, rgb(100, 30, 30), rgb(201, 34, 34));
+    height: 200px;    
+    
+    position: relative;
+   
+}
+
+.nav-bar 
+{
+    margin-left: 40%;
+    width: 70%;
+    position: absolute;
+    bottom: 5%;
+    font-size: 16pt;
+}
+.nav-bar ul li{
+    display: inline;
+  padding: 1em;
+  color: white;
+}
+.contact
+{
+    margin-left: 82%;
+    position: absolute;
+    top: 50%;
+    color: aliceblue;
+    text-align: end;
+    font-size: 25px;
+}
+.loginDiv
+{
+    margin-left: 90%;
+  position: absolute;
+  top: 10%;
+  display: flex;
+}
+.login,
+.findUs,
+.or {
+  font-size: 13pt;
+  color: aliceblue;
+  display: inline;
+}
+.login:hover,.findUs:hover{
+    color: yellow;
+}
+.nav-bar ul li a:hover{
+    color: greenyellow;
+}
+
+
+.Introduction h2
+{
+    color: red;
+    font-style: italic;
+    font-size: large;
+}
+.Introduction p{
+    color: gray;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+}
+.paper{
+    background-color:aliceblue;
+    box-shadow: 5px 10px 20px grey;
+    padding:1em;
+    text-align:center;
+}
+.paper img{
+    height:200px;
+    width:300px;
+}
+.container2
+{
+    display: flex;
+    flex-direction: row;
+}
+.footer{
+    padding: 7px;
+    margin: 7px;
+    background-color: red;
+}
+.MainMenu p{
+    position: absolute;
+    /* display: flex; */
+    display: inline;
+    margin-top: 10px;
+    margin-left: 67%;
+    font-size: 20pt;
+  
+    color: white;
+}
+.menu{
+  
+    background-color: red;
+    border: 2px solid rgb(235, 229, 229);
+    margin: 6px;
+    padding: 4px ;
+    width: 450px;
+    color:white;
+
+}
+.menu:hover{
+    color: green;
+}

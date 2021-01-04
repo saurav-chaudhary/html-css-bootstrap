@@ -1,0 +1,132 @@
+.header
+{
+  
+       
+
+ 
+    height:15vh;
+   
+  
+}
+
+
+.header ul li  {
+    display: inline;
+    margin-left: 20%;
+   line-height: 3;
+}
+.nav-bar a
+{
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    border: 1px;
+    padding: 1em;
+} 
+.button
+{
+    margin-left: 70%;
+    font-size: large;   
+    position: absolute;
+    margin-top: -4%;
+    background-color: green;
+    color: white;
+    border-radius:20px;
+    width:80px;
+    
+}
+.nav-bar a:hover{
+    background-color: green;
+}
+.hero
+{
+  
+    background:url("Images/image1.jpg");
+    height: 70vh;
+    text-align: center;
+}
+.hero h1{
+    font-size: 3em;
+    padding: 10%;
+    margin-left: 30%;
+    color:white
+}
+.container{
+    display: flex;
+    justify-content: center;
+      
+}
+.paper img{
+    height:200px;
+    width:300px;
+    padding: 7%;
+    
+     
+}
+.paper h5{
+    margin-top: -10%;
+    margin-left: 10%;
+    padding: 1px;
+   
+}
+.paper p{
+    margin-left: 10%;
+}
+.info h1{
+    text-align: center;
+    color: black
+}
+.info p{
+    text-align: center;
+}
+.Container2{
+    display: flex;
+    justify-content: center;
+}
+.alfa1 img{
+    height: 300px;
+    width: 200px;
+    padding: 5%;
+}
+.teacher h1{
+    text-align: center;
+   color:  black
+    
+}
+.teacher p{
+    text-align: center;
+}
+.alfa2 img{
+    height: 300px;
+    width: 200px;
+    padding: 5%;
+}
+.alfa3 img{
+    height: 300px;
+    width: 200px;
+    padding: 5%;
+}
+.footer{
+    display: flex;
+    justify-content:space-evenly;
+    color: white;
+    background-color: black;
+  
+   
+}
+.flex img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+.flex li{
+    
+    list-style-type: none;
+    text-decoration: none;
+}
+.flex{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}

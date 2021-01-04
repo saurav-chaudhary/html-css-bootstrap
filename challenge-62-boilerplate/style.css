@@ -1,0 +1,96 @@
+
+.big-light{
+    width: 100%;
+}
+.navbar-brand{
+    color: red !important;
+    font-style: italic;
+}
+.dropdown-menu{
+    background-color: royalblue;
+    margin-left: 0%;
+    position:absolute;
+    left: -150%;
+}
+.dropdown-menu a{
+    color: white;
+    text-decoration: none;
+    padding: 1em;
+   
+
+}
+.carousel-inner img
+{
+    height: 600px;
+ 
+  display: block;
+ 
+    
+}
+.dropdown-item8,.dropdown-item9{
+    background-color: white;
+    padding-top: 1%!important;
+    padding-bottom: 1%!important;
+    padding-left: 30%!important;
+    padding-right: 30%!important;
+    margin-left: 10%!important;
+  color: red!important;
+}
+.song h1{
+    text-align: center;
+    color:blue;
+    background-color: lightblue;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.paper img{
+    width: 300px;
+    height: 300px;
+    justify-content: space-evenly;
+    padding-left: 5%;
+   
+   
+}
+.paper h5{
+    padding-left: 13%;
+}
+.Album h1{
+    text-align: center;
+    background-color: lightblue;
+    color: blue;
+   
+}
+.AlbumCon
+{
+    display: flex;
+    justify-content:space-evenly;
+   
+
+}
+.aa img{
+    width: 100px;
+    height: 100px;;
+}
+.AlbumCon li{
+    margin-left:-30% ;
+    list-style-type: none;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+}
+.footer li{
+    list-style-type: none;
+    display: inline;
+   
+}
+.footer i{
+    color: white;
+    padding: 1em;
+}
+.footer  h6{
+    color: white;
+}

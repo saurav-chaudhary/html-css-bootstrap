@@ -1,0 +1,39 @@
+body{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: black;
+}
+.header{
+    background-color: black;
+    height: 167px;
+}
+.header h1{
+    margin-left: 40%;
+    color: gray;
+    font-size: 600%;
+    margin-top: -10%;
+}
+.container{
+    display:flex ;
+    text-align: center;
+    background-color:aliceblue;
+   
+    justify-content:space-evenly;
+   
+}
+.paper img{
+    height: 300px;
+    width: 300px;
+    
+}
+.paper{
+    border: solid black;
+    box-shadow: 5px 10px 20px black;
+}
+.top
+{
+    color: gray;
+    text-align: center;
+    text-shadow:green;
+}

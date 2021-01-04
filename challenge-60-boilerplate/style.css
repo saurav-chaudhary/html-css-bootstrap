@@ -1,0 +1,64 @@
+.top li{
+    list-style-type: none;
+    margin-left: 80%;
+    margin-top: -1.7%;
+    padding-left: 10%;
+}
+.college{
+    background: url(Images/col3.jpeg);
+    height: 1000px;
+
+
+}
+.bg-light
+{
+   margin-left: 10%;
+   margin-right: 10%;
+   background-color: transparent!important;
+    
+    
+}
+.navbar-brand{
+    color: white!important;
+    font-size: x-large!important;
+    padding-right: 20%;
+}
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+.btn{
+    margin-left: 95%;
+    border-radius: 30%;
+    color: white!important;
+    background-color: green!important;
+}
+.vl {
+    border-left: 1px solid green;
+    height: 25px;
+  }
+  .bg-light a{
+      color: white!important;
+  }
+  .mid-brand{
+     margin-left: 45%;
+     margin-top: 10%;
+
+  }
+  .mid-brand img{
+      width: 150px;
+      height: 150px;
+  }
+  .line p{
+      margin-left: 4%;
+      margin-top: 4%;
+      color: white;
+  }
+  .line h1{
+      color: orange;
+      font-family:Arial, Helvetica, sans-serif;
+  }
+  .hl{
+      border-left: white;
+      width: 7px;
+  }
